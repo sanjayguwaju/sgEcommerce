@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>Hello world!</div>;
+  return <div>Welcome to Ecommerce Website</div>;
 };
 
 export default App;
