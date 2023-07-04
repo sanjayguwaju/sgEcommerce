@@ -1,5 +1,10 @@
+import Navbar from "../src/components/Navbar"
+
 const App = () => {
-  return <div>Welcome to Ecommerce App Start</div>;
+  return 
+  <>
+    <Navbar/>
+  </>;
 };
 
 export default App;
