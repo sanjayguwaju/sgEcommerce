@@ -1,9 +1,11 @@
 import Navbar from "../src/components/Navbar"
+import Header from "../src/components/Header/Header"
 
 const App = () => {
   return 
   <>
     <Navbar/>
+    <Header/>
   </>;
 };
 
