@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Login = () => {
     return (
         <form>
@@ -10,14 +8,4 @@ const Login = () => {
     );
 };
 
-const Register = () => {
-    return (
-        <form>
-            <input type="text" name="username" placeholder="Username" />
-            <input type="password" name="password" placeholder="Password" />
-            <button type="submit">Register</button>
-        </form>
-    );
-};
-
-export { Login, Register };
+export default Login;
